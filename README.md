@@ -1,6 +1,6 @@
 # Movie-Sentiment-Analysis
 Movie Sentiment Analysis using two different approach with the same data-set.
-The two approaches are: Rule based Sentiment Analysis
+The two approaches are: Rule based Sentiment Analysis and 
                         Naive Bayes Sentiment Analysis
                         
 Also comparing the accuracy in both the methods.
